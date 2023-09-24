@@ -1,0 +1,223 @@
+div{
+    display:inline-block;
+}
+
+.banner{
+    background-image: url(../img/banner.fw.png);
+    height: 307px;
+    width: 980px;
+    border: 1px solid #1b8d99;
+    background-position: 0px -35px;
+    position: relative;
+    top: 98px
+}
+
+.imagemA{
+    background-image: url(../img/DroneA.png);
+    width: 300px;
+    height: 280px;
+    border: 1px solid black;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-position-y: 35px;
+    background-position-x: 9px;
+    position: relative;
+    top: 94px;
+    right: -30px;
+}
+
+.imagemB{
+    background-image: url(../img/DroneB.png);
+    width: 300px;
+    height: 280px;
+    border: 1px solid black;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-position-y: 42px;
+    background-position-x: 7px;
+    position: relative;
+    top: 94px;
+    right: -44px;
+}
+
+#container{
+    width: 1200px;
+    margin: auto;
+   
+    
+   
+}
+
+
+.imagemC{
+    background-position-y: 35px;
+    background-image: url(../img/DroneC.png);
+    width: 300px;
+    height: 280px;
+    border: 1px solid black;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    position: relative;
+    top: 113px;
+    right: -54px;
+}
+
+.ServicosA{
+    background-image: url(../img/ServicosA.png);
+    width: 300px;
+    height: 320px;
+    border: 1px solid black;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 370px;
+    border: 1px solid #660000; 
+    right: -30px;
+}
+
+.ServicosB{
+    background-image: url(../img/ServicosB.png);
+    width: 300px;
+    height: 320px;
+    border: 1px solid black;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 354px;
+    border: 2px solid #1b8d99;
+    right: -46px;
+}
+
+.ServicosC{
+    background-image: url(../img/ServicosC.png);
+    width: 300px;
+    height: 320px;
+    border: 1px solid black;
+    background-repeat: no-repeat;
+    right: -70px;
+    position: relative;
+    top: 386px;
+    border: 1px solid #660000
+}
+
+.barra1{
+    width: 80%;
+    height: 96px;
+    background-color: #1b8d99;
+    position: relative;
+    top: 531px;
+    right: -31px;
+}
+
+.barra2{
+    width: 80%;
+    height: 26px;
+    background-color: #660000;
+    position: relative;
+    right: -31px;
+    top: 527px;
+}
+
+.Logo{
+    background-image: url(../img/logo.fw.png);
+    width: 194px;
+    height: 146px;
+    position: relative;
+    top: -1581px;
+    right: -18px;
+}
+
+.logo1{
+    background-image: url(../img/imgDroneA.png);
+    height: 77px;
+    width: 125px;
+    position: relative;
+    top: -1141px;
+    right: -685px;
+}   
+
+.logo2{
+    right: -555px;
+    background-image: url(../img/imgDroneB.png);
+    height: 77px;
+    width: 125px;
+    position: relative;
+    top: -461px;
+}
+
+.log1{
+    background-image: url(../img/imgDroneC.png);
+    height: 48px;
+    width: 137px;
+    position: relative;
+    top: 57px;
+    right: 39px;
+}
+
+.log2{
+    background-image: url(../img/imgDroneC.png);
+    height: 48px;
+    width: 137px;
+    position: relative;
+    top: 57px;
+    right: -88px;
+}
+
+.log3{
+    background-image: url(../img/imgDroneC.png);
+    height: 48px;
+    right: 676px;
+    width: 137px;
+    position: relative;
+    top: 57px;
+}
+
+.Prof{
+    background-image: url(../img/imgProfessor.png);
+    height: 205px;
+    width: 107px;
+    position: relative;
+    top: 181px;
+    right: 124px;
+}
+
+.Log{
+    right: 805px;
+    background-image: url(../img/logo.png);
+    height: 28px;
+    width: 118px;
+    position: relative;
+    top: 116px;
+}
+
+.carrinho{
+    background-image: url(../img/carrinho.png);
+    height: 50px;
+    width: 57px;
+    position: relative;
+    top: -782px;
+    right: 209px;
+    background-color: #fff;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.carrinho1{
+    right: -257px;
+    background-image: url(../img/carrinho.png);
+    height: 50px;
+    width: 57px;
+    position: relative;
+    top: -838px;
+    background-color: #fff;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.carrinho2{
+    background-image: url(../img/carrinho.png);
+    height: 50px;
+    width: 57px;
+    position: relative;
+    top: -838px;
+    background-color: #fff;
+    right: -530px;
+    border-radius: 5px 5px 5px 5px;
+}
